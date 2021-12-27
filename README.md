@@ -4,7 +4,7 @@ PHP及びNginx用のDocker開発環境構築パッケージ
 # 使い方
 1. cloneする
 2. 次のコマンドを実行
-  $docker-compose up # コンテナを作成して起動
+  $docker-compose up -d # コンテナを作成して起動
 
 # 備忘録
 * dockerコマンド
